@@ -1,9 +1,9 @@
 # Tickfair_Connect
-AI-Augmented Web Development: [Tickfair_Connect เช่น Modern E-commerce UI] developed with 50%+ AI-generated code, focusing on clean modular architecture and accessibility refinement.
-# Project Name: [Tickfair_Connect]
+AI-Augmented Web Development: Tickfair_Connect เช่น Modern E-commerce UI developed with 50%+ AI-generated code, focusing on clean modular architecture and accessibility refinement. 
+# Project Name: Tickfair_Connect
 
 ## 🚀 Project Overview
-This project is developed as part of [Mobile Application Deverlopment]. The goal is to build a modern web application using an **AI-Augmented workflow**, balancing speed with high-quality manual refinement.
+This project is developed as part of Mobile Application Deverlopment. The goal is to build a modern web application using an **AI-Augmented workflow**, balancing speed with high-quality manual refinement.
 
 ## 🤖 AI Integration (The "How")
 Following the project requirements, **at least 50% of the code** was generated using AI (Gemini/ChatGPT).

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "634102915421",
+    "project_id": "tickfair-connect-ff20d",
+    "storage_bucket": "tickfair-connect-ff20d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634102915421:android:f732b467d0b95c594208b4",
+        "android_client_info": {
+          "package_name": "com.example.tickfair_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634102915421-5u86g14u0e0533lgaqdu1oss9rtpf49q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwwbT9HUx_tAReI895xsbsJLavtQ44s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634102915421-5u86g14u0e0533lgaqdu1oss9rtpf49q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634102915421-muajo1t9nar5ihcmbrdn5lh2gpqtqoq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tickfairConnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634102915421:android:863a134cd6c4a39d4208b4",
+        "android_client_info": {
+          "package_name": "com.example.tickfair_connect_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634102915421-5u86g14u0e0533lgaqdu1oss9rtpf49q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwwbT9HUx_tAReI895xsbsJLavtQ44s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634102915421-5u86g14u0e0533lgaqdu1oss9rtpf49q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634102915421-muajo1t9nar5ihcmbrdn5lh2gpqtqoq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tickfairConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
